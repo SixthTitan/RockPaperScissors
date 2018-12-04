@@ -3,7 +3,7 @@
 # A fun mini game written in Python, the user has to guess between Rock, Paper, or Scissor against
 # the computer, and if the user picks rock but the computer picks scissor the user will win
 # Created: 12/4/2018
-# License: Open Apache License
+# License: Open Apache License 2.0
 # Github: https://github.com/laurensarah2023/RockPaperScissors
 
 import random
