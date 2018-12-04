@@ -4,7 +4,7 @@
 # the computer, and if the user picks rock but the computer picks scissor the user will win
 # Created: 12/4/2018
 # License: Open Apache License
-# Github:
+# Github: https://github.com/laurensarah2022/RockPaperScissors
 
 import random
 
